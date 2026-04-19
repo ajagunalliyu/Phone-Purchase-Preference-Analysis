@@ -100,9 +100,9 @@ This project followed a structured 5-phase analytics methodology:
 
 ### Dashboard (Power BI)
 
-> *(pppa1.png)*
+![](pppa1.png)
 
-> *(pppa2.png)*
+![](pppa2.png)
 
 ---
 
