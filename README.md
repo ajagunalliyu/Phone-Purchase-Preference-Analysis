@@ -100,9 +100,9 @@ This project followed a structured 5-phase analytics methodology:
 
 ### Dashboard (Power BI)
 
-> *(Insert screenshot of dashboard overview page here)*
+> *(pppa1.png)*
 
-> *(Insert screenshot of dashboard performance/segmentation page here)*
+> *(pppa2.png)*
 
 ---
 
