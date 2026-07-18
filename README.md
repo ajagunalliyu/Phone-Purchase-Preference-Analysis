@@ -1,6 +1,7 @@
 # Phone Purchase Preference Analysis - Nigeria Consumer Survey
 
 > A full-cycle data analytics project: from survey design to Excel for data cleaning and preprocessing to SQL querying, Power BI dashboard, and actionable consumer insights.
+![](dashboard/phonepurchase_dashboard1.png)
 
 Mobile brands operating in Nigeria needed to know what actually drives a phone purchase, beyond assuming it's price or camera specs. I designed and ran a 162-respondent survey, cleaned it in Excel/Power Query, analyzed it across 7 business questions in SQL Server, and built a star-schema Power BI dashboard. The biggest surprise: durability, storage, and battery life outrank price and camera quality as purchase drivers; 53.1% of consumers intend to switch brands, and 73.5% still buy through local retailers rather than online — directly challenging assumptions brands often make about this market.
 
@@ -17,7 +18,8 @@ Cleaning: standardized inconsistent categorical labels, encoded multi-select fie
 Analysis: SQL Server queries across 7 structured business questions using UNION ALL, GROUP BY, window functions, and CASE WHEN conditional aggregation
 
 Modeling: star schema in Power BI with DAX measures for satisfaction averages, switch-rate %, and feature-importance rankings
-
+[Sales Analysis SQL](sql_queries/Phone_Preference.sql)
+![](assets/Data_Model.png)
 
 ### Key Insights
 
