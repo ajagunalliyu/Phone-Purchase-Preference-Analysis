@@ -48,7 +48,7 @@ Link: Links: [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDdhOGUzZjI
 > Follow on [Twitter/X](https://x.com/Sayyid_Alliyu)  
 > Read more on [Medium](https://medium.com/@ajagunalliyu)  
 > 💻 Explore more projects on [GitHub](https://github.com/ajagunalliyu)
-> View [Portfolio website](https://sites.google.com/view/alliyutheanalyst/portfolio?authuser=0)
+> View [Portfolio website](https://alliyutheanalyst.lovable.app/)
 
 
 ## ⭐ Support
